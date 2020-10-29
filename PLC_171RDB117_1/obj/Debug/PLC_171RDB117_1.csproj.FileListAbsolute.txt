@@ -1,0 +1,14 @@
+C:\Users\Serge\source\repos\PLC_171RDB117_1\PLC_171RDB117_1\bin\Debug\PLC_171RDB117_1.exe.config
+C:\Users\Serge\source\repos\PLC_171RDB117_1\PLC_171RDB117_1\bin\Debug\PLC_171RDB117_1.exe
+C:\Users\Serge\source\repos\PLC_171RDB117_1\PLC_171RDB117_1\bin\Debug\PLC_171RDB117_1.pdb
+C:\Users\Serge\source\repos\PLC_171RDB117_1\PLC_171RDB117_1\obj\Debug\PLC_171RDB117_1.csprojAssemblyReference.cache
+C:\Users\Serge\source\repos\PLC_171RDB117_1\PLC_171RDB117_1\obj\Debug\MainWindow.g.cs
+C:\Users\Serge\source\repos\PLC_171RDB117_1\PLC_171RDB117_1\obj\Debug\App.g.cs
+C:\Users\Serge\source\repos\PLC_171RDB117_1\PLC_171RDB117_1\obj\Debug\PLC_171RDB117_1_MarkupCompile.cache
+C:\Users\Serge\source\repos\PLC_171RDB117_1\PLC_171RDB117_1\obj\Debug\PLC_171RDB117_1_MarkupCompile.lref
+C:\Users\Serge\source\repos\PLC_171RDB117_1\PLC_171RDB117_1\obj\Debug\MainWindow.baml
+C:\Users\Serge\source\repos\PLC_171RDB117_1\PLC_171RDB117_1\obj\Debug\PLC_171RDB117_1.g.resources
+C:\Users\Serge\source\repos\PLC_171RDB117_1\PLC_171RDB117_1\obj\Debug\PLC_171RDB117_1.Properties.Resources.resources
+C:\Users\Serge\source\repos\PLC_171RDB117_1\PLC_171RDB117_1\obj\Debug\PLC_171RDB117_1.csproj.GenerateResource.cache
+C:\Users\Serge\source\repos\PLC_171RDB117_1\PLC_171RDB117_1\obj\Debug\PLC_171RDB117_1.exe
+C:\Users\Serge\source\repos\PLC_171RDB117_1\PLC_171RDB117_1\obj\Debug\PLC_171RDB117_1.pdb
